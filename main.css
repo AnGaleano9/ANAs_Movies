@@ -1,0 +1,30 @@
+body {
+    background-color: red;
+  }
+
+
+
+
+  .card {
+      width: 400px;
+      height: inherit;
+      display: inline-flex;
+      margin: 10px;
+  }
+
+.list-view{
+    width: 1000px;
+    margin-left: 200px;
+}
+
+
+.main-img img{
+    width: 100%;
+    height: 400px;
+}
+
+ #list-card img {
+    height: 400px;
+    width: 400px; 
+    
+ } 
